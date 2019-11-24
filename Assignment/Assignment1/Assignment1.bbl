@@ -1,0 +1,194 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{alwayn_2004}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=3fc9e80cacc1c89480ba7d0aaee021a5}{%
+           family={Alwayn},
+           familyi={A\bibinitperiod},
+           given={Vivek},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cisco Press}%
+      }
+      \strng{namehash}{3fc9e80cacc1c89480ba7d0aaee021a5}
+      \strng{fullhash}{3fc9e80cacc1c89480ba7d0aaee021a5}
+      \strng{bibnamehash}{3fc9e80cacc1c89480ba7d0aaee021a5}
+      \strng{authorbibnamehash}{3fc9e80cacc1c89480ba7d0aaee021a5}
+      \strng{authornamehash}{3fc9e80cacc1c89480ba7d0aaee021a5}
+      \strng{authorfullhash}{3fc9e80cacc1c89480ba7d0aaee021a5}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Fiber-Optic Technologies | A Brief History of Fiber-Optic Communications}
+      \field{month}{4}
+      \field{title}{Fiber-Optic Technologies}
+      \field{year}{2004}
+      \verb{urlraw}
+      \verb http://www.ciscopress.com/articles/printerfriendly/170740
+      \endverb
+      \verb{url}
+      \verb http://www.ciscopress.com/articles/printerfriendly/170740
+      \endverb
+    \endentry
+    \entry{memon_2018}{article}{}
+      \name{author}{5}{}{%
+        {{hash=e155672709be58e90e88dbab11c0fa27}{%
+           family={Memon},
+           familyi={M\bibinitperiod},
+           given={Sanober},
+           giveni={S\bibinitperiod}}}%
+        {{hash=60346cc695447cb2e3d538e4c600f06e}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={Muhammad\bibnamedelima Mahmood},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=648fc057719bf88e176ecbcee548f1b9}{%
+           family={Pembroke},
+           familyi={P\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1abaed89918e8f8e3bb6ac0744a79330}{%
+           family={Chowdhry},
+           familyi={C\bibinitperiod},
+           given={Bhawani},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f8e7e2b5722ec747fba9ba0086f636b2}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={Elfed},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{0528061f706a1d83053f7dcfde84c726}
+      \strng{fullhash}{9b05676b94314930c7e0e21ad09cab8e}
+      \strng{bibnamehash}{9b05676b94314930c7e0e21ad09cab8e}
+      \strng{authorbibnamehash}{9b05676b94314930c7e0e21ad09cab8e}
+      \strng{authornamehash}{0528061f706a1d83053f7dcfde84c726}
+      \strng{authorfullhash}{9b05676b94314930c7e0e21ad09cab8e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Instrumentation and Measurement}
+      \field{month}{04}
+      \field{title}{Measurement of Ultralow Level Bioethanol Concentration for Production Using Evanescent Wave Based Optical Fiber Sensor}
+      \field{volume}{67}
+      \field{year}{2018}
+      \field{pages}{780\bibrangedash 788}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/TIM.2017.2761618
+      \endverb
+    \endentry
+    \entry{mickelson_2003}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1b045d0a8af641a68063b021b8b7e0c5}{%
+           family={Mickelson},
+           familyi={M\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{1b045d0a8af641a68063b021b8b7e0c5}
+      \strng{fullhash}{1b045d0a8af641a68063b021b8b7e0c5}
+      \strng{bibnamehash}{1b045d0a8af641a68063b021b8b7e0c5}
+      \strng{authorbibnamehash}{1b045d0a8af641a68063b021b8b7e0c5}
+      \strng{authornamehash}{1b045d0a8af641a68063b021b8b7e0c5}
+      \strng{authorfullhash}{1b045d0a8af641a68063b021b8b7e0c5}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optical Communications ECEN 5686}
+      \field{month}{1}
+      \field{title}{Theory of Optical Communication: Chapter 1}
+      \field{year}{2003}
+      \verb{urlraw}
+      \verb https://ecee.colorado.edu/~ecen5686/
+      \endverb
+      \verb{url}
+      \verb https://ecee.colorado.edu/~ecen5686/
+      \endverb
+    \endentry
+    \entry{wikipediacross_2019}{misc}{}
+      \list{publisher}{1}{%
+        {Wikimedia Foundation}%
+      }
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wikipedia}
+      \field{month}{9}
+      \field{title}{Crosstalk}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Crosstalk
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Crosstalk
+      \endverb
+    \endentry
+    \entry{hayt_buck_2019}{book}{}
+      \name{author}{2}{}{%
+        {{hash=adf285b6bbaa9d414449bd2afdc23da8}{%
+           family={Hayt},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima H.},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=1021c855c03a546739ddd815477eae5b}{%
+           family={Buck},
+           familyi={B\bibinitperiod},
+           given={John\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill Education}%
+      }
+      \strng{namehash}{28ede95c32ac17765475ad281c980503}
+      \strng{fullhash}{28ede95c32ac17765475ad281c980503}
+      \strng{bibnamehash}{28ede95c32ac17765475ad281c980503}
+      \strng{authorbibnamehash}{28ede95c32ac17765475ad281c980503}
+      \strng{authornamehash}{28ede95c32ac17765475ad281c980503}
+      \strng{authorfullhash}{28ede95c32ac17765475ad281c980503}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Engineering electromagnetics}
+      \field{year}{2019}
+    \endentry
+    \entry{fiber_vs_wire}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{journaltitle}{Comparison of Fiber Optics and Copper Wire}
+      \verb{urlraw}
+      \verb https://www.tutorialspoint.com/Comparison-of-Fiber-Optics-and-Copper-Wire
+      \endverb
+      \verb{url}
+      \verb https://www.tutorialspoint.com/Comparison-of-Fiber-Optics-and-Copper-Wire
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{5367579}
+\endrefsection
+\endinput
+

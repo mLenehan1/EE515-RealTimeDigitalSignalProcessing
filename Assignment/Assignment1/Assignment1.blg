@@ -1,0 +1,20 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'Assignment1.blg'
+[33] biber:315> INFO - === Fri Nov 22, 2019, 11:21:11
+[58] Biber.pm:371> INFO - Reading 'Assignment1.bcf'
+[131] Biber.pm:889> INFO - Found 7 citekeys in bib section 0
+[147] Biber.pm:4093> INFO - Processing section 0
+[158] Biber.pm:4254> INFO - Looking for bibtex format file 'sources/biblio.bib' for section 0
+[159] bibtex.pm:1512> INFO - LaTeX decoding ...
+[179] bibtex.pm:1329> INFO - Found BibTeX data source 'sources/biblio.bib'
+[184] Utils.pm:193> WARN - month field 'Apr' in entry 'alwayn_2004' is not an integer - this will probably not sort properly.
+[195] Utils.pm:193> WARN - month field 'Jan' in entry 'mickelson_2003' is not an integer - this will probably not sort properly.
+[196] Utils.pm:193> WARN - month field 'Sep' in entry 'wikipediacross_2019' is not an integer - this will probably not sort properly.
+[201] Utils.pm:193> WARN - I didn't find a database entry for '5367579' (section 0)
+[211] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[212] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
+[212] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
+[212] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-UK'
+[220] bbl.pm:636> INFO - Writing 'Assignment1.bbl' with encoding 'UTF-8'
+[222] bbl.pm:739> INFO - Output to Assignment1.bbl
+[222] Biber.pm:110> INFO - WARNINGS: 4
