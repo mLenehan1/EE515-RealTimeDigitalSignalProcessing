@@ -1,0 +1,16 @@
+\subsection{ML for 16-QAM Demodulation}
+
+Machine learning techniques show promise as a replacement for the aforementioned
+DSP techniques for the purpose of low complexity, high performance coherent
+optical receiver systems.
+
+\par A K-Nearest Neighbours (KNN) classification can be used for the purposes of
+removing noise from a signal. Using components of each symbol of the 16-QAM
+output as features, and the groups of symbols as the classes, a model can be
+trained .
+
+\par Fuzzy c-Means clustering, a version of the k-Means algorithm, calculates
+the probability that an incoming signal belongs to a cluster. This, when
+combined with the KNN algorithm, has been shown through simulation to give
+better performance than any of the previously discussed, more traditional DSP
+techniques\cite{kMeans_2019}.

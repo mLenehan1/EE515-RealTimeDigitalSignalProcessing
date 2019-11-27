@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.10.2)  22 NOV 2019 11:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.10.2)  26 NOV 2019 15:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -740,7 +740,11 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 LaTeX Warning: Unused global option(s):
     [a4paper12pt].
 
-(./Assignment1.aux)
+(./Assignment1.aux
+
+LaTeX Warning: Label `eq:' multiply defined.
+
+)
 \openout1 = `Assignment1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -790,15 +794,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Assignment1.bbl' found.
- (./Assignment1.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                5367579
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+ (./Assignment1.bbl)
 Package biblatex Info: Reference section=0 on input line 34.
 Package biblatex Info: Reference segment=0 on input line 34.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -836,7 +832,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 8.
-<images/Dcu-logo.png, id=44, 300.12125pt x 204.765pt>
+<images/Dcu-logo.png, id=68, 300.12125pt x 204.765pt>
 File: images/Dcu-logo.png Graphic file (type png)
 <use images/Dcu-logo.png>
 Package pdftex.def Info: images/Dcu-logo.png  used on input line 12.
@@ -892,49 +888,111 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 \tf@toc=\write5
 \openout5 = `Assignment1.toc'.
 
- [3] (./sections/introduction.tex) (./sections/background/background.tex) (./sections/background/physics.tex
-<images/tir.png, id=85, 839.135pt x 360.34625pt>
+ [3] (./sections/introduction.tex) (./sections/background/background.tex) (./sections/background/physics.tex [4
+
+]
+<images/tir.png, id=120, 839.135pt x 360.34625pt>
 File: images/tir.png Graphic file (type png)
 <use images/tir.png>
 Package pdftex.def Info: images/tir.png  used on input line 13.
 (pdftex.def)             Requested size: 276.00105pt x 118.51874pt.
- [4
-
-]) (./sections/background/systemoverview.tex
-<images/optcommsblock.png, id=95, 432.91147pt x 267.82411pt>
+) (./sections/background/systemoverview.tex
+<images/optcommsblock.png, id=125, 432.91147pt x 267.82411pt>
 File: images/optcommsblock.png Graphic file (type png)
 <use images/optcommsblock.png>
 Package pdftex.def Info: images/optcommsblock.png  used on input line 10.
 (pdftex.def)             Requested size: 276.00105pt x 170.74889pt.
- [5 <./images/tir.png>]) (./sections/background/advantages.tex [6 <./images/optcommsblock.png (PNG copy)>]) (./sections/currentWork/modulation.tex) (./sections/conclusion.tex) [7] [8]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 54.
- [9
+ [5 <./images/tir.png>]) (./sections/background/advantages.tex [6 <./images/optcommsblock.png (PNG copy)>]) (./sections/currentWork/modulation.tex) (./sections/currentWork/shaping.tex [7] [8]
+<images/PStest.png, id=186, 575.32588pt x 240.19147pt>
+File: images/PStest.png Graphic file (type png)
+<use images/PStest.png>
+Package pdftex.def Info: images/PStest.png  used on input line 56.
+(pdftex.def)             Requested size: 276.00105pt x 115.22829pt.
+) (./sections/currentWork/coherent.tex [9 <./images/PStest.png (PNG copy)>]) (./sections/currentWork/dspcoherent.tex
+<images/dspcoherent.png, id=198, 286.24588pt x 97.77705pt>
+File: images/dspcoherent.png Graphic file (type png)
+<use images/dspcoherent.png>
+Package pdftex.def Info: images/dspcoherent.png  used on input line 15.
+(pdftex.def)             Requested size: 276.00105pt x 94.28561pt.
+ [10]
+Overfull \hbox (9.29694pt too wide) in paragraph at lines 20--25
+[]\T1/ptm/m/n/10 In or-der to com-pensate for chro-matic dis-per-sion, Fast Four-ier Trans-form based frequency-
+ []
+
+) (./sections/currentWork/machinelearning.tex) (./sections/currentWork/kmeans.tex [11 <./images/dspcoherent.png (PNG copy)>]) (./sections/currentWork/neural.tex [12]) (./sections/conclusion.tex) [13]
+
+./Assignment1.tex:59: Package inputenc Error: Unicode character   (U+2009)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 \end
+         {document}
+You may provide a definition with
+\GenericError {               }{LaTeX Error: Can be used only in preamble}{See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.}
+
+
+./Assignment1.tex:59: Package inputenc Error: Unicode character   (U+2009)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 \end
+         {document}
+You may provide a definition with
+\GenericError {               }{LaTeX Error: Can be used only in preamble}{See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.}
+
+
+Overfull \hbox (8.75499pt too wide) in paragraph at lines 59--59
+[]\T1/ptm/m/n/10 J. Pedro, N. Costa and S. Pato, ``Op-tical trans-port net-work design bey-ond 100gbaud
+ []
+
+
+Overfull \hbox (10.68217pt too wide) in paragraph at lines 59--59
+\T1/ptm/m/n/10 [in-vited]'', \T1/ptm/m/it/10 IEEE/OSA Journal of Op-tical Com-mu-nic-a-tions and Net-work-ing\T1/ptm/m/n/10 , vol. 12,
+ []
+
+[14
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 54.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 59.
+ [15]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 59.
  (./Assignment1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 54.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 54.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 59.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 59.
 Package rerunfilecheck Info: File `Assignment1.out' has not changed.
-(rerunfilecheck)             Checksum: EE2EB9FB88120A4C88B1B542D9C5B16F;654.
+(rerunfilecheck)             Checksum: 3C4A64BD8B870DE4A916D031C80C2712;1120.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package logreq Info: Writing requests to 'Assignment1.run.xml'.
 \openout1 = `Assignment1.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 54.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 59.
  ) 
 Here is how much of TeX's memory you used:
- 15328 strings out of 492615
- 250555 string characters out of 6131390
- 711855 words of memory out of 5000000
- 18937 multiletter control sequences out of 15000+600000
- 57238 words of font info for 70 fonts, out of 8000000 for 9000
+ 15424 strings out of 492615
+ 256685 string characters out of 6131390
+ 715703 words of memory out of 5000000
+ 18978 multiletter control sequences out of 15000+600000
+ 66938 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,7n,45p,945b,2229s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Assignment1.pdf (10 pages, 227078 bytes).
+ 41i,7n,45p,2326b,2229s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Assignment1.pdf (16 pages, 443028 bytes).
 PDF statistics:
- 179 PDF objects out of 1000 (max. 8388607)
- 154 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 500000)
- 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 306 PDF objects out of 1000 (max. 8388607)
+ 264 compressed objects within 3 object streams
+ 53 named destinations out of 1000 (max. 500000)
+ 154 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -5,6 +5,12 @@
 \BOOKMARK [2][-]{subsection.2.3}{Optical Communications System Advantages}{section.2}% 5
 \BOOKMARK [3][-]{subsubsection.2.3.1}{Interference}{subsection.2.3}% 6
 \BOOKMARK [3][-]{subsubsection.2.3.2}{Attenuation}{subsection.2.3}% 7
-\BOOKMARK [1][-]{section.3}{Current}{}% 8
+\BOOKMARK [1][-]{section.3}{Current State-of-the-Art}{}% 8
 \BOOKMARK [2][-]{subsection.3.1}{Modulation Techniques}{section.3}% 9
-\BOOKMARK [1][-]{section.4}{Conclusions}{}% 10
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Probabilistic Shaping}{subsection.3.1}% 10
+\BOOKMARK [2][-]{subsection.3.2}{Coherent Detection and DSP}{section.3}% 11
+\BOOKMARK [3][-]{subsubsection.3.2.1}{DSP Algorithms}{subsection.3.2}% 12
+\BOOKMARK [2][-]{subsection.3.3}{Machine Learning Techniques}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.4}{ML for 16-QAM Demodulation}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.5}{Neural Networks}{section.3}% 15
+\BOOKMARK [1][-]{section.4}{Conclusions}{}% 16

@@ -15,8 +15,20 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {2.3.2}Attenuation}{7}{subsubsection.2.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Current}{8}{section.3}% 
+\contentsline {section}{\numberline {3}Current State-of-the-Art}{8}{section.3}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1}Modulation Techniques}{8}{subsection.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Conclusions}{8}{section.4}% 
+\contentsline {subsubsection}{\numberline {3.1.1}Probabilistic Shaping}{8}{subsubsection.3.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Coherent Detection and DSP}{10}{subsection.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.1}DSP Algorithms}{10}{subsubsection.3.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Machine Learning Techniques}{12}{subsection.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4}ML for 16-QAM Demodulation}{12}{subsection.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5}Neural Networks}{12}{subsection.3.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Conclusions}{13}{section.4}% 

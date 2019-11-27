@@ -45,3 +45,14 @@
 
 
 ## Conclusions
+
+- Sensitivity gains up to .8dB over uniform input distrib measured experimetally
+ - Showed excellent match with AWGN simulations, effectively closing gap to cap
+- Showed numerically that shaping gain is robust to mismatch between channel SNR
+  and SNR assumerd at RX
+ - Variation of channel SNR up to 11dB is low and medium SNR range distrib do
+   not require adjustment of input distrib, provided reduced shaping gain is
+   acceptable
+- This makes prob shaping highly suitable for practical app in optical comms sys
+  as it offers tolerance to SNR degradation occurring in the lide cycle of an
+  optical comms sys.
