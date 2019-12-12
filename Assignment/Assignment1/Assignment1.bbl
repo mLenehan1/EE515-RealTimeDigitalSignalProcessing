@@ -1,0 +1,515 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{alwayn_2004}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=3fc9e80cacc1c89480ba7d0aaee021a5}{%
+           family={Alwayn},
+           familyi={A\bibinitperiod},
+           given={Vivek},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cisco Press}%
+      }
+      \strng{namehash}{3fc9e80cacc1c89480ba7d0aaee021a5}
+      \strng{fullhash}{3fc9e80cacc1c89480ba7d0aaee021a5}
+      \strng{bibnamehash}{3fc9e80cacc1c89480ba7d0aaee021a5}
+      \strng{authorbibnamehash}{3fc9e80cacc1c89480ba7d0aaee021a5}
+      \strng{authornamehash}{3fc9e80cacc1c89480ba7d0aaee021a5}
+      \strng{authorfullhash}{3fc9e80cacc1c89480ba7d0aaee021a5}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Fiber-Optic Technologies | A Brief History of Fiber-Optic Communications}
+      \field{month}{4}
+      \field{title}{Fiber-Optic Technologies}
+      \field{year}{2004}
+      \verb{urlraw}
+      \verb http://www.ciscopress.com/articles/printerfriendly/170740
+      \endverb
+      \verb{url}
+      \verb http://www.ciscopress.com/articles/printerfriendly/170740
+      \endverb
+    \endentry
+    \entry{memon_2018}{article}{}
+      \name{author}{5}{}{%
+        {{hash=e155672709be58e90e88dbab11c0fa27}{%
+           family={Memon},
+           familyi={M\bibinitperiod},
+           given={Sanober},
+           giveni={S\bibinitperiod}}}%
+        {{hash=60346cc695447cb2e3d538e4c600f06e}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={Muhammad\bibnamedelima Mahmood},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=648fc057719bf88e176ecbcee548f1b9}{%
+           family={Pembroke},
+           familyi={P\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1abaed89918e8f8e3bb6ac0744a79330}{%
+           family={Chowdhry},
+           familyi={C\bibinitperiod},
+           given={Bhawani},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f8e7e2b5722ec747fba9ba0086f636b2}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={Elfed},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{0528061f706a1d83053f7dcfde84c726}
+      \strng{fullhash}{9b05676b94314930c7e0e21ad09cab8e}
+      \strng{bibnamehash}{9b05676b94314930c7e0e21ad09cab8e}
+      \strng{authorbibnamehash}{9b05676b94314930c7e0e21ad09cab8e}
+      \strng{authornamehash}{0528061f706a1d83053f7dcfde84c726}
+      \strng{authorfullhash}{9b05676b94314930c7e0e21ad09cab8e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Instrumentation and Measurement}
+      \field{month}{04}
+      \field{title}{Measurement of Ultralow Level Bioethanol Concentration for Production Using Evanescent Wave Based Optical Fiber Sensor}
+      \field{volume}{67}
+      \field{year}{2018}
+      \field{pages}{780\bibrangedash 788}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/TIM.2017.2761618
+      \endverb
+    \endentry
+    \entry{mickelson_2003}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1b045d0a8af641a68063b021b8b7e0c5}{%
+           family={Mickelson},
+           familyi={M\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{1b045d0a8af641a68063b021b8b7e0c5}
+      \strng{fullhash}{1b045d0a8af641a68063b021b8b7e0c5}
+      \strng{bibnamehash}{1b045d0a8af641a68063b021b8b7e0c5}
+      \strng{authorbibnamehash}{1b045d0a8af641a68063b021b8b7e0c5}
+      \strng{authornamehash}{1b045d0a8af641a68063b021b8b7e0c5}
+      \strng{authorfullhash}{1b045d0a8af641a68063b021b8b7e0c5}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optical Communications ECEN 5686}
+      \field{month}{1}
+      \field{title}{Theory of Optical Communication: Chapter 1}
+      \field{year}{2003}
+      \verb{urlraw}
+      \verb https://ecee.colorado.edu/~ecen5686/
+      \endverb
+      \verb{url}
+      \verb https://ecee.colorado.edu/~ecen5686/
+      \endverb
+    \endentry
+    \entry{wikipediacross_2019}{misc}{}
+      \list{publisher}{1}{%
+        {Wikimedia Foundation}%
+      }
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Wikipedia}
+      \field{month}{9}
+      \field{title}{Crosstalk}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Crosstalk
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Crosstalk
+      \endverb
+    \endentry
+    \entry{hayt_buck_2019}{book}{}
+      \name{author}{2}{}{%
+        {{hash=adf285b6bbaa9d414449bd2afdc23da8}{%
+           family={Hayt},
+           familyi={H\bibinitperiod},
+           given={William\bibnamedelima H.},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=1021c855c03a546739ddd815477eae5b}{%
+           family={Buck},
+           familyi={B\bibinitperiod},
+           given={John\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill Education}%
+      }
+      \strng{namehash}{28ede95c32ac17765475ad281c980503}
+      \strng{fullhash}{28ede95c32ac17765475ad281c980503}
+      \strng{bibnamehash}{28ede95c32ac17765475ad281c980503}
+      \strng{authorbibnamehash}{28ede95c32ac17765475ad281c980503}
+      \strng{authornamehash}{28ede95c32ac17765475ad281c980503}
+      \strng{authorfullhash}{28ede95c32ac17765475ad281c980503}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Engineering electromagnetics}
+      \field{year}{2019}
+    \endentry
+    \entry{fiber_vs_wire}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{journaltitle}{Comparison of Fiber Optics and Copper Wire}
+      \verb{urlraw}
+      \verb https://www.tutorialspoint.com/Comparison-of-Fiber-Optics-and-Copper-Wire
+      \endverb
+      \verb{url}
+      \verb https://www.tutorialspoint.com/Comparison-of-Fiber-Optics-and-Copper-Wire
+      \endverb
+    \endentry
+    \entry{prob_2016}{article}{}
+      \name{author}{6}{}{%
+        {{hash=ccaed934ece4200bdc89253d82aad9a0}{%
+           family={{Fehenberger}},
+           familyi={F\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=fea314d50c1d9f04bb5fc2d865583590}{%
+           family={{Lavery}},
+           familyi={L\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d19dcb2075647ce36ccfdc08b44d7bca}{%
+           family={{Maher}},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5bfdad1374f38ea1edb9e606096f3b1b}{%
+           family={{Alvarado}},
+           familyi={A\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ec0742c07fec6efbe753cffaa525ef34}{%
+           family={{Bayvel}},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=91a3dbc24bff54dfcc300939b4c5b427}{%
+           family={{Hanik}},
+           familyi={H\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{fbe808a39d9704c55f96df4adebdad10}
+      \strng{fullhash}{3f5496f0449850b125e29c997f21647a}
+      \strng{bibnamehash}{3f5496f0449850b125e29c997f21647a}
+      \strng{authorbibnamehash}{3f5496f0449850b125e29c997f21647a}
+      \strng{authornamehash}{fbe808a39d9704c55f96df4adebdad10}
+      \strng{authorfullhash}{3f5496f0449850b125e29c997f21647a}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1941-0174}
+      \field{journaltitle}{IEEE Photonics Technology Letters}
+      \field{month}{4}
+      \field{number}{7}
+      \field{title}{Sensitivity Gains by Mismatched Probabilistic Shaping for Optical Communication Systems}
+      \field{volume}{28}
+      \field{year}{2016}
+      \field{pages}{786\bibrangedash 789}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/LPT.2015.2514078
+      \endverb
+      \keyw{numerical analysis;optical communication equipment;optical information processing;optical noise;optical testing;probability;quadrature amplitude modulation;mismatched probabilistic shaping;optical communication systems;quadrature amplitude modulation;sensitivity gain enhancement;numerical simulations;signal-to-noise ratio;Signal to noise ratio;Gain;Probabilistic logic;Quadrature amplitude modulation;Sensitivity;AWGN channels;Transceivers;Achievable Information Rates;Digital Coherent Transceivers;Digital Signal Processing;Mutual Information;Probabilistic Shaping;Signal Shaping;Achievable information rates;digital coherent transceivers;digital signal processing;mutual information;probabilistic shaping;signal shaping}
+    \endentry
+    \entry{400Gbps_2019}{article}{}
+      \name{author}{7}{}{%
+        {{hash=b52dea7eddc87762dba0e824527e35c3}{%
+           family={{Kong}},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c9a3728dcc2397d1bab78a791b51779b}{%
+           family={{Li}},
+           familyi={L\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=8afab9bdc9b292debbeb136dfd97036c}{%
+           family={{Zhang}},
+           familyi={Z\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=33b4ceeaa068e0ff0791079d2b905b6d}{%
+           family={{Wang}},
+           familyi={W\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=cae40bc87e56b0e22cf86b4dee3ae269}{%
+           family={{Xin}},
+           familyi={X\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=131093b32cfc248eb878910414e84f69}{%
+           family={{Zhao}},
+           familyi={Z\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=89b432fa4bb24ef9e7312fd806fb771b}{%
+           family={{Yu}},
+           familyi={Y\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{17f46ca9f3861f8172eeedf22b7620e5}
+      \strng{fullhash}{af6ad9ff96f5349ea5e6e9a4ab4b03b9}
+      \strng{bibnamehash}{af6ad9ff96f5349ea5e6e9a4ab4b03b9}
+      \strng{authorbibnamehash}{af6ad9ff96f5349ea5e6e9a4ab4b03b9}
+      \strng{authornamehash}{17f46ca9f3861f8172eeedf22b7620e5}
+      \strng{authorfullhash}{af6ad9ff96f5349ea5e6e9a4ab4b03b9}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Lightwave Technology}
+      \field{month}{10}
+      \field{number}{20}
+      \field{title}{High Spectral Efficiency 400 Gb/s Transmission by Different Modulation Formats and Advanced DSP}
+      \field{volume}{37}
+      \field{year}{2019}
+      \field{pages}{5317\bibrangedash 5325}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/JLT.2019.2932384
+      \endverb
+      \keyw{Butterworth filters;digital filters;low-pass filters;optical communication equipment;optical fibre amplifiers;optical fibre communication;optical fibre couplers;optical modulation;optical noise;optical receivers;quadrature amplitude modulation;Raman lasers;wavelength division multiplexing;high spectral efficiency transmission;modulation formats;optical signal-to-noise ratio;probabilistically shaped 64-ary quadrature-amplitude-modulation-grid wavelength-division-multiplexing transmission;Raman-amplified ultralarge effective area fiber;hybrid-32-64QAM;preequalization;optical coupler;wavelength selective switch;EDFA;WDM system;Butterworth low-pass digital filter;receiver end;WDM transmission;transmission performance;Raman amplifier;look-up-table pre-distortion;probabilistically shaped 64QAM;ULAF;advanced DSP;Entropy;Wavelength division multiplexing;Quadrature amplitude modulation;Stimulated emission;Optical switches;Optical fiber amplifiers;Hybrid quadrature-amplitude-modulation (hybrid-QAM);look-up-table (LUT) pre-distortion;optical coupler;pre-equalization;probabilistic shaping;ultra large effective area fiber (ULAF)}
+    \endentry
+    \entry{100Gbaud_2019}{article}{}
+      \name{author}{3}{}{%
+        {{hash=aa7c72434938cbcbd0776142a6384c0f}{%
+           family={{Pedro}},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=80df41c86b45e226c44c7f902f135a4c}{%
+           family={{Costa}},
+           familyi={C\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d2dc88ed230aec346b39b58300432799}{%
+           family={{Pato}},
+           familyi={P\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{63629e6f6eb27cdcf6e78585e838c1c1}
+      \strng{fullhash}{63629e6f6eb27cdcf6e78585e838c1c1}
+      \strng{bibnamehash}{63629e6f6eb27cdcf6e78585e838c1c1}
+      \strng{authorbibnamehash}{63629e6f6eb27cdcf6e78585e838c1c1}
+      \strng{authornamehash}{63629e6f6eb27cdcf6e78585e838c1c1}
+      \strng{authorfullhash}{63629e6f6eb27cdcf6e78585e838c1c1}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1943-0639}
+      \field{journaltitle}{IEEE/OSA Journal of Optical Communications and Networking}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{Optical transport network design beyond 100  Gbaud [Invited]}
+      \field{volume}{12}
+      \field{year}{2020}
+      \field{pages}{A123\bibrangedash A134}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1364/JOCN.12.00A123
+      \endverb
+      \keyw{Optical modulation;Optical fiber networks;Adaptive optics;Optical sensors;Optical receivers;Optical transmitters}
+    \endentry
+    \entry{dspcoherent}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=0e666ca1ec9bdcee719414b2940abf9a}{%
+           family={{Zhou}},
+           familyi={Z\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=89b432fa4bb24ef9e7312fd806fb771b}{%
+           family={{Yu}},
+           familyi={Y\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{80f246f42199ed09564033693af3fe82}
+      \strng{fullhash}{80f246f42199ed09564033693af3fe82}
+      \strng{bibnamehash}{80f246f42199ed09564033693af3fe82}
+      \strng{authorbibnamehash}{80f246f42199ed09564033693af3fe82}
+      \strng{authornamehash}{80f246f42199ed09564033693af3fe82}
+      \strng{authorfullhash}{80f246f42199ed09564033693af3fe82}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2009 18th Annual Wireless and Optical Communications Conference}
+      \field{month}{5}
+      \field{title}{Digital signal processing for coherent optical communication}
+      \field{year}{2009}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/WOCC.2009.5312792
+      \endverb
+      \keyw{equalisers;frequency estimation;light polarisation;optical dispersion;optical receivers;photodetectors;signal processing;digital signal processing;coherent optical communication;digital equalization algorithm;chromatic dispersion compensation;polarization recovery;polarization mode dispersion compensation;carrier frequency offset estimation;carrier phase recovery;distortion mitigation algorithm;coherent receiver;single-ended photodetection;Digital signal processing;Optical fiber communication;Signal processing algorithms;Frequency estimation;Chromatic dispersion;Optical polarization;Polarization mode dispersion;Phase estimation;Optical distortion;Optical receivers;DSP;Coherent;algorithm;optical;detection;communication}
+    \endentry
+    \entry{Savory_08}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1a67808fa91d6d24e2d13a047c5adfcc}{%
+           family={Savory},
+           familyi={S\bibinitperiod},
+           given={Seb\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {OSA}%
+      }
+      \strng{namehash}{1a67808fa91d6d24e2d13a047c5adfcc}
+      \strng{fullhash}{1a67808fa91d6d24e2d13a047c5adfcc}
+      \strng{bibnamehash}{1a67808fa91d6d24e2d13a047c5adfcc}
+      \strng{authorbibnamehash}{1a67808fa91d6d24e2d13a047c5adfcc}
+      \strng{authornamehash}{1a67808fa91d6d24e2d13a047c5adfcc}
+      \strng{authorfullhash}{1a67808fa91d6d24e2d13a047c5adfcc}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Digital filters underpin the performance of coherent optical receivers which exploit digital signal processing (DSP) to mitigate transmission impairments. We outline the principles of such receivers and review our experimental investigations into compensation of polarization mode dispersion. We then consider the details of the digital filtering employed and present an analytical solution to the design of a chromatic dispersion compensating filter. Using the analytical solution an upper bound on the number of taps required to compensate chromatic dispersion is obtained, with simulation revealing an improved bound of 2.2 taps per 1000ps/nm for 10.7GBaud data. Finally the principles of digital polarization tracking are outlined and through simulation, it is demonstrated that 100krad/s polarization rotations could be tracked using DSP with a clock frequency of less than 500MHz.}
+      \field{journaltitle}{Opt. Express}
+      \field{month}{1}
+      \field{number}{2}
+      \field{title}{Digital filters for coherent optical receivers}
+      \field{volume}{16}
+      \field{year}{2008}
+      \field{pages}{804\bibrangedash 817}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1364/OE.16.000804
+      \endverb
+      \verb{urlraw}
+      \verb http://www.opticsexpress.org/abstract.cfm?URI=oe-16-2-804
+      \endverb
+      \verb{url}
+      \verb http://www.opticsexpress.org/abstract.cfm?URI=oe-16-2-804
+      \endverb
+      \keyw{Coherent communications; Optical communications; Digital filtering; Nonlinear impairments; Optical signals; Polarization dependent loss; Quadrature amplitude modulation; Self phase modulation}
+    \endentry
+    \entry{kMeans_2019}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=c4d79d9b13ada29a82f561b4cad65ebe}{%
+           family={{Pérez}},
+           familyi={P\bibinitperiod},
+           given={A.\bibnamedelimi E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=839a166c447362eaef7fd6334e7c5de5}{%
+           family={{Granada Torres}},
+           familyi={G\bibinitperiod},
+           given={J.\bibnamedelimi J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{97743dad61d0684817ade4fb5da7ba19}
+      \strng{fullhash}{97743dad61d0684817ade4fb5da7ba19}
+      \strng{bibnamehash}{97743dad61d0684817ade4fb5da7ba19}
+      \strng{authorbibnamehash}{97743dad61d0684817ade4fb5da7ba19}
+      \strng{authornamehash}{97743dad61d0684817ade4fb5da7ba19}
+      \strng{authorfullhash}{97743dad61d0684817ade4fb5da7ba19}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 IEEE Colombian Conference on Communications and Computing (COLCOM)}
+      \field{issn}{null}
+      \field{month}{6}
+      \field{title}{KNN, k-Means and Fuzzy c-Means for 16-QAM Demodulation in Coherent Optical Systems}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 4}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/ColComCon.2019.8809116
+      \endverb
+      \keyw{learning (artificial intelligence);nearest neighbour methods;optical links;optical modulation;optical receivers;quadrature amplitude modulation;coherent optical system;Machine Learning techniques;KNN;DSP-based receiver;ML techniques;optical link;16-QAM demodulation;laser linewidth;Matlab;VPIDesignSuite software;k-means;k-nearest neighbors;fuzzy C-means;NSD method;nonsymmetrical demodulation method;Nyquist single carrier optical transmission;frequency 100.0 kHz;frequency 25.0 kHz;gain 2.0 dB;gain 1.0 dB;size 50 km;Optical noise;Signal to noise ratio;Nonlinear optics;Optical receivers;Optical distortion;Optical signal processing;Optical fiber communication;Machine Learning;16-QAM;Coherent Optical Systems}
+    \endentry
+    \entry{nn_2020}{article}{}
+      \name{author}{5}{}{%
+        {{hash=09733e886edc40846a5f6a6a9af72eb3}{%
+           family={{Yu}},
+           familyi={Y\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=b2ff85d118c95088c7ca004045563aa8}{%
+           family={{Zhao}},
+           familyi={Z\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod}}}%
+        {{hash=41ee36ec00931ecec42a4aea91d776eb}{%
+           family={{Yang}},
+           familyi={Y\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=83702ad2b0cc9ef7ee381daa5f80b7f0}{%
+           family={{Chen}},
+           familyi={C\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=802879972afa5bd206c5988365d10ca8}{%
+           family={{Chen}},
+           familyi={C\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7bf52c36ddf73e4cdbdeef9e0da9ae80}
+      \strng{fullhash}{3b464c5eb9c465366f382ed295cdbeeb}
+      \strng{bibnamehash}{3b464c5eb9c465366f382ed295cdbeeb}
+      \strng{authorbibnamehash}{3b464c5eb9c465366f382ed295cdbeeb}
+      \strng{authornamehash}{7bf52c36ddf73e4cdbdeef9e0da9ae80}
+      \strng{authorfullhash}{3b464c5eb9c465366f382ed295cdbeeb}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1558-4542}
+      \field{journaltitle}{IEEE Journal of Selected Topics in Quantum Electronics}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Binarized Coherent Optical Receiver Based on Opto-Electronic Neural Network}
+      \field{volume}{26}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1109/JSTQE.2019.2931251
+      \endverb
+      \keyw{analogue-digital conversion;Mach-Zehnder interferometers;multiplexing;neural nets;optical fibre communication;optical modulation;optical receivers;quadrature phase shift keying;signal processing;telecommunication computing;electronic neural layer;opto-electronic neural network;optical neural layer;one-bit vertical resolution ADCs;binarized coherent optical receiver;optical communication system;Mach-Zehnder interferometers;Optical receivers;Neural networks;Optical polarization;Optical computing;Optical fibers;Optical mixing;Optical neural network;analog to digital converter;binarized coherent optical receiver}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

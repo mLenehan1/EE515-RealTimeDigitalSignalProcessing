@@ -1,0 +1,59 @@
+\documentclass[a4paper 12pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{mathptmx}
+\usepackage{textcomp}
+\usepackage[UKenglish]{babel}
+\usepackage{amsmath, amssymb}
+\usepackage{float}
+\usepackage[hidelinks]{hyperref}
+\hypersetup{
+	colorlinks=false
+}
+\usepackage[style=ieee]{biblatex}
+\bibliography{sources/biblio}
+\renewcommand{\baselinestretch}{1.5}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1em}
+
+% figure support
+\usepackage{import}
+\usepackage{xifthen}
+\pdfminorversion=7
+\usepackage{pdfpages}
+\usepackage{transparent}
+\newcommand{\incfig}[1]{%
+	\def\svgwidth{\columnwidth}
+	\import{./figures/}{#1.pdf_tex}
+}
+
+\pdfsuppresswarningpagegroup=1
+
+\begin{document}
+\input{cover/cover}
+\input{cover/declaration}
+\input{sections/abstract}
+\tableofcontents
+\clearpage
+\section{Introduction}
+\input{sections/introduction}
+\section{Background}
+\input{sections/background/background}
+\input{sections/background/physics}
+\input{sections/background/systemoverview}
+\input{sections/background/advantages}
+\section{Current State-of-the-Art}
+\input{sections/currentWork/modulation}
+\input{sections/currentWork/shaping}
+\input{sections/currentWork/coherent}
+\input{sections/currentWork/dspcoherent}
+\input{sections/currentWork/machinelearning}
+\input{sections/currentWork/kmeans}
+\input{sections/currentWork/neural}
+\section{Conclusions}
+\input{sections/conclusion}
+\clearpage
+\printbibliography
+\end{document}

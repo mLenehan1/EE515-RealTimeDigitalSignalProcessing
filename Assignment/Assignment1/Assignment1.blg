@@ -1,0 +1,26 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'Assignment1.blg'
+[36] biber:315> INFO - === Tue Nov 26, 2019, 14:05:46
+[65] Biber.pm:371> INFO - Reading 'Assignment1.bcf'
+[146] Biber.pm:889> INFO - Found 13 citekeys in bib section 0
+[159] Biber.pm:4093> INFO - Processing section 0
+[171] Biber.pm:4254> INFO - Looking for bibtex format file 'sources/biblio.bib' for section 0
+[173] bibtex.pm:1512> INFO - LaTeX decoding ...
+[208] bibtex.pm:1329> INFO - Found BibTeX data source 'sources/biblio.bib'
+[214] Utils.pm:193> WARN - month field 'Apr' in entry 'alwayn_2004' is not an integer - this will probably not sort properly.
+[228] Utils.pm:193> WARN - month field 'Jan' in entry 'mickelson_2003' is not an integer - this will probably not sort properly.
+[229] Utils.pm:193> WARN - month field 'Sep' in entry 'wikipediacross_2019' is not an integer - this will probably not sort properly.
+[247] Utils.pm:193> WARN - month field 'April' in entry 'prob_2016' is not an integer - this will probably not sort properly.
+[260] Utils.pm:193> WARN - month field 'Oct' in entry '400Gbps_2019' is not an integer - this will probably not sort properly.
+[267] Utils.pm:193> WARN - month field 'February' in entry '100Gbaud_2019' is not an integer - this will probably not sort properly.
+[273] Utils.pm:193> WARN - month field 'May' in entry 'dspcoherent' is not an integer - this will probably not sort properly.
+[277] Utils.pm:193> WARN - month field 'Jan' in entry 'Savory_08' is not an integer - this will probably not sort properly.
+[283] Utils.pm:193> WARN - month field 'June' in entry 'kMeans_2019' is not an integer - this will probably not sort properly.
+[294] Utils.pm:193> WARN - month field 'Jan' in entry 'nn_2020' is not an integer - this will probably not sort properly.
+[316] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
+[316] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[316] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
+[316] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-UK'
+[330] bbl.pm:636> INFO - Writing 'Assignment1.bbl' with encoding 'UTF-8'
+[338] bbl.pm:739> INFO - Output to Assignment1.bbl
+[338] Biber.pm:110> INFO - WARNINGS: 10
